@@ -33,14 +33,14 @@
 
 <hr>
 <h3>Front-and</h3>
-<b>JavaScript</b>
+<h4>JavaScript</h4>
 <ul>
    <li>
      O javaScript foi usado para validar campos e dar mais dinamismo na pÃ¡gina,mas sua funçãoo principal é realizar a comunicão entre        servidor e cliente atraves do XMLHttpRequest.
    </li>
  </ul> 
  
-<b>Html</b>
+<h4>Html</h4>
 <ul>
   <li>
     Informar campos de emtrada e mostrar informações para o usuário
