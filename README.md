@@ -73,10 +73,7 @@
 
 <br>
 <hr>
-# Telas do sistema
-<br>
-### Tela de login.
-<br>
+
 ![alt text](https://github.com/HallefBruno/Fariseu/blob/master/src/main/webapp/images/tela_login.PNG)
 
 
