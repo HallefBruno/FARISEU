@@ -58,21 +58,21 @@
   </li>
 </ul>
 
-<b>JQuery</b>
+<h4>JQuery</h4>
 <ul>
   <li>
     Jquery auxilia na dinÃ¢mica da pÃ¡gina e também na comunicação cliente servidor.
   </li>
 </ul>
 
-<b>BootStrap 3</b>
+<h4>BootStrap 3</h4>
 <ul>
   <li>
     Usado no desenvolvimento de componentes de interface melhorando a experiência do usuário em um site amigável e responsivo.
   </li>
 </ul>
 
-<b>DataTable</b>
+<h4>DataTable</h4>
 <ul>
   <li>
     Usado para popular tabelas de forma assincrona sem a necessidade de recarregar a página e gerar relatorio dos dados na tabela tanto       Pdf,Excel, Csv e outros.
