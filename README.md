@@ -35,6 +35,15 @@
 <p>Porque foi batizado de Fariseu? Fariseu significa: "separar", "afastar", no sistema Fariseu não se utiliza os grandes                     <strong>Frameworks do mercado voltados para a linguagem de programação Java</strong>, por isso o nome "Fariseu", acredito que um           sistema criado sem a ultilização de <strong>Frameworks</strong> pode ser mais leve para o servidor e com isso tornar-se um benefício     para o usuário final,tornando também um sistema mais fácil de ser atulizado livre de vesão de biblioteca relacionadas aos Frameworks.
   O ERP Fariseu visa a gestão por completa de uma empresa, sem um fim específico.
 </p>
+```
+  <strong>Frameworks</strong> como:
+  <p>Hibernate<br>
+  Spring<br>
+  JSF<br>
+  Primefaces<br>
+  ...</p>
+  NÃ£o sÃ£o utilizados neste sistema!
+  ```
 <hr>
 
 <hr>
