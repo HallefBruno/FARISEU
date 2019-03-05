@@ -4,7 +4,7 @@
     <a href="https://github.com/HallefBruno/Fariseu/blob/master/README.md#--fariseu-erp-web-de-gest%C3%A3o-comercial">Introdução ao sistema Fariseu</a>
   </li>
   <li>
-    <a href="https://github.com/HallefBruno/Fariseu/blob/master/README.md#1---tecnologias-usadas-back-and> 1 - Tecnologias usadas Back-and</a>
+    <a href="https://github.com/HallefBruno/Fariseu/blob/master/README.md#1---tecnologias-usadas-back-and"> 1 - Tecnologias usadas Back-and</a>
   </li>
 </ul>
 
