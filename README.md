@@ -75,7 +75,7 @@
 <hr>
 
 ![alt text](https://github.com/HallefBruno/Fariseu/blob/master/src/main/webapp/images/tela_login.PNG)
-
+<hr>
 
 ### Link para donwload das tecnologias de back-and e front-and
 * [Java](https://www.oracle.com/technetwork/java/javase/downloads/index.html)
