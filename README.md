@@ -38,11 +38,11 @@
 
   ```
   Frameworks como:
-  <p>Hibernate<br>
-  Spring<br>
-  JSF<br>
-  Primefaces<br>
-  ...</p>
+  Hibernate
+  Spring
+  JSF
+  Primefaces
+  ...
   Não são utilizados neste sistema!
   ```
 <hr>
