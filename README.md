@@ -27,7 +27,9 @@
   </li>
 </ul>
 <hr>
-#### Front-and
+
+<hr>
+<h3>Front-and</h3>
 <b>JavaScript</b>
 <ul>
    <li>
