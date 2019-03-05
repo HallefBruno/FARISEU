@@ -21,7 +21,6 @@
       <li>
         <a href="https://github.com/HallefBruno/Fariseu/blob/master/README.md#bootstrap-3"> BootStrap 3 e 4 </a>
       </li>
-      
     </ul>
   </li>
 </ul>
