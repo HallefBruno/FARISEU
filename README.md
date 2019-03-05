@@ -42,7 +42,7 @@
         <a href="https://github.com/HallefBruno/Fariseu/blob/master/README.md#tela-de-cadastro">Figura 3 - Tela de cadastro</a>
       </li>
       <li>
-        <a href="https://github.com/HallefBruno/Fariseu/blob/master/README.md#tela-de-cadastro">Figura 3 - Tela de cadastro responsiva</a>
+        <a href="https://github.com/HallefBruno/Fariseu/blob/master/README.md#tela-de-cadastro-responsiva">Figura 3 - Tela de cadastro responsiva</a>
       </li>
     </ul>
   </li>
