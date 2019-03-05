@@ -49,11 +49,11 @@
 <hr>
 
 <hr>
-<h3>Front-and</h3>
+<h3>2 - Tecnologias usadas Front-and</h3>
 <h4>JavaScript</h4>
 <ul>
    <li>
-     O javaScript foi usado para validar campos e dar mais dinamismo na pÃ¡gina,mas sua funçãoo principal é realizar a comunicão entre        servidor e cliente atraves do XMLHttpRequest.
+     O javaScript foi usado para validar campos e dar mais dinamismo na página,mas sua função principal é realizar a comunição entre        servidor e cliente atraves do XMLHttpRequest.
    </li>
  </ul> 
  
