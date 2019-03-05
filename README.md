@@ -27,3 +27,41 @@
   </li>
 </ul>
 <hr>
+#### Front-and
+<b>JavaScript</b>
+<ul>
+   <li>
+     O javaScript foi usado para validar campos e dar mais dinamismo na pÃ¡gina,mas sua funçãoo principal é realizar a comunicão entre        servidor e cliente atraves do XMLHttpRequest.
+   </li>
+ </ul> 
+ 
+<b>Html</b>
+<ul>
+  <li>
+    Informar campos de emtrada e mostrar informações para o usuário
+  </li>
+</ul>
+
+<b>JQuery</b>
+<ul>
+  <li>
+    Jquery auxilia na dinÃ¢mica da pÃ¡gina e também na comunicação cliente servidor.
+  </li>
+</ul>
+
+<b>BootStrap 3</b>
+<ul>
+  <li>
+    Usado no desenvolvimento de componentes de interface melhorando a experiência do usuário em um site amigável e responsivo.
+  </li>
+</ul>
+
+<b>DataTable</b>
+<ul>
+  <li>
+    Usado para popular tabelas de forma assincrona sem a necessidade de recarregar a página e gerar relatorio dos dados na tabela tanto       Pdf,Excel, Csv e outros.
+  </li>
+</ul>
+
+<br>
+<hr>
