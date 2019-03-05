@@ -35,6 +35,9 @@
       <li>
         <a href="https://github.com/HallefBruno/Fariseu/blob/master/README.md#tela-de-login">Figura 1 - Tela login</a>
       </li>
+      <li>
+        <a href="https://github.com/HallefBruno/Fariseu/blob/master/src/main/webapp/images/tela_principal.PNG">Figura 2 - Tela principal</a>
+      </li>
     </ul>
   </li>
 </ul>
@@ -125,5 +128,11 @@
 ![alt text](https://github.com/HallefBruno/Fariseu/blob/master/src/main/webapp/images/tela_login.PNG)
 <p align="center">
   <b>Figura 1 - Tela de login</b>
+</p>
+
+#### Tela principal
+![alt text](https://github.com/HallefBruno/Fariseu/blob/master/src/main/webapp/images/tela_login.PNG)
+<p align="center">
+  <b>Figura 2 - Tela Principal</b>
 </p>
 
