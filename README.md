@@ -26,6 +26,9 @@
       </li>
     </ul>
   </li>
+  <li>
+    <a href="">Dwonload tecnologias usadas</a>
+  </li>
 </ul>
 
 <hr>
@@ -96,6 +99,13 @@
     Usado para popular tabelas de forma assincrona sem a necessidade de recarregar a página e gerar relatorio dos dados na tabela tanto       Pdf,Excel, Csv e outros.
   </li>
 </ul>
-
 <br>
 <hr>
+
+### Link para donwload das tecnologias de back-and e front-and
+* [Java](https://www.oracle.com/technetwork/java/javase/downloads/index.html)
+* [IDE de desenvolvimento Netbeans](https://netbeans.org/downloads/)
+* [Gerenciador de versÃ£o GIT](https://git-scm.com/downloads)
+* [Jquery](https://jquery.com/download/)
+* [Bootstrap 3](https://getbootstrap.com/docs/3.3/getting-started/#download)
+* [DataTable](https://datatables.net/download/)
