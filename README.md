@@ -13,7 +13,7 @@
         <a href="https://github.com/HallefBruno/Fariseu/blob/master/README.md#javascript"> JavaScript </a>
       </li>
       <li>
-        <a href="https://github.com/HallefBruno/Fariseu/blob/master/README.md#javascript"> JavaScript </a>
+        <a href="https://github.com/HallefBruno/Fariseu/blob/master/README.md#html"> Html </a>
       </li>
       <li>
         <a href="https://github.com/HallefBruno/Fariseu/blob/master/README.md#javascript"> JavaScript </a>
