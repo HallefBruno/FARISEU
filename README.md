@@ -37,7 +37,7 @@
 </p>
 
   ```
-  <strong>Frameworks</strong> como:
+  Frameworks como:
   <p>Hibernate<br>
   Spring<br>
   JSF<br>
