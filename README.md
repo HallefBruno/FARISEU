@@ -38,6 +38,9 @@
       <li>
         <a href="https://github.com/HallefBruno/Fariseu/blob/master/README.md#tela-principal">Figura 2 - Tela principal</a>
       </li>
+      <li>
+        <a href="">Figura 3 - Tela de cad pessoa</a>
+      </li>
     </ul>
   </li>
 </ul>
@@ -134,5 +137,11 @@
 ![alt text](https://github.com/HallefBruno/Fariseu/blob/master/src/main/webapp/images/tela_principal.PNG)
 <p align="center">
   <b>Figura 2 - Tela Principal</b>
+</p>
+
+#### Tela de cadastro
+![alt text](https://github.com/HallefBruno/Fariseu/blob/master/src/main/webapp/images/cad_pessoa.PNG)
+<p align="center">
+  <b>Figura 3 - Tela de cadastro</b>
 </p>
 
