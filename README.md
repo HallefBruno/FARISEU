@@ -8,6 +8,11 @@
   </li>
   <li>
     <a href="https://github.com/HallefBruno/Fariseu/blob/master/README.md#front-and"> 2 - Tecnologias usadas Front-and</a>
+    <ul>
+      <li>
+        <a href="https://github.com/HallefBruno/Fariseu/blob/master/README.md#front-and"> JavaScript </a>
+      </li>
+    </ul>
   </li>
 </ul>
 
