@@ -120,4 +120,6 @@
 <hr>
 
 ### Interfaces do sistema temporária
-![alt text] (https://github.com/HallefBruno/Fariseu/blob/master/src/main/webapp/images/tela_login.PNG)
+
+![alt text](https://github.com/HallefBruno/Fariseu/blob/master/src/main/webapp/images/tela_login.PNG)
+
