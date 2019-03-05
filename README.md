@@ -39,7 +39,10 @@
         <a href="https://github.com/HallefBruno/Fariseu/blob/master/README.md#tela-principal">Figura 2 - Tela principal</a>
       </li>
       <li>
-        <a href="https://github.com/HallefBruno/Fariseu/blob/master/src/main/webapp/images/cad_pessoa.PNG">Figura 3 - Tela de cadastro</a>
+        <a href="https://github.com/HallefBruno/Fariseu/blob/master/README.md#tela-de-cadastro">Figura 3 - Tela de cadastro</a>
+      </li>
+      <li>
+        <a href="https://github.com/HallefBruno/Fariseu/blob/master/README.md#tela-de-cadastro">Figura 3 - Tela de cadastro responsiva</a>
       </li>
     </ul>
   </li>
@@ -143,5 +146,11 @@
 ![alt text](https://github.com/HallefBruno/Fariseu/blob/master/src/main/webapp/images/cad_pessoa.PNG)
 <p align="center">
   <b>Figura 3 - Tela de cadastro</b>
+</p>
+
+#### Tela de cadastro responsiva
+![alt text](https://github.com/HallefBruno/Fariseu/blob/master/src/main/webapp/images/responsivo.PNG)
+<p align="center">
+  <b>Figura 3 - Tela de cadastro responsiva</b>
 </p>
 
