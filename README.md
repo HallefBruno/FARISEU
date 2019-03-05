@@ -27,7 +27,7 @@
     </ul>
   </li>
   <li>
-    <a href="https://github.com/HallefBruno/Fariseu/blob/master/README.md#link-para-donwload-das-tecnologias-de-back-and-e-front-and">Donwload tecnologias usadas</a>
+    <a href="https://github.com/HallefBruno/Fariseu/blob/master/README.md#link-para-donwload-das-tecnologias-de-back-and-e-front-and">Download tecnologias usadas</a>
   </li>
 </ul>
 
@@ -102,7 +102,7 @@
 <br>
 <hr>
 
-### Link para donwload das tecnologias de back-and e front-and
+### Link para download das tecnologias de back-and e front-and
 * [Java](https://www.oracle.com/technetwork/java/javase/downloads/index.html)
 * [IDE de desenvolvimento Netbeans](https://netbeans.org/downloads/)
 * [Gerenciador de versÃ£o GIT](https://git-scm.com/downloads)
