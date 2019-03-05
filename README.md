@@ -27,7 +27,7 @@
     </ul>
   </li>
   <li>
-    <a href="">Dwonload tecnologias usadas</a>
+    <a href="https://github.com/HallefBruno/Fariseu/blob/master/README.md#link-para-donwload-das-tecnologias-de-back-and-e-front-and">Donwload tecnologias usadas</a>
   </li>
 </ul>
 
