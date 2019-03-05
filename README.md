@@ -6,8 +6,8 @@
 </ul>
 
 <hr>
-<h1>
-  <a id="intro" href=""></a>
+<h3>
+  <a id="intro" href="#fariseu-erp"></a>
   Fariseu ERP Web de gestão comercial
-</h1>
+</h3>
 <hr>
