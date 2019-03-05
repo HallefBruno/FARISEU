@@ -67,7 +67,7 @@
 <h4>JQuery</h4>
 <ul>
   <li>
-    Jquery auxilia na dinÃ¢mica da pÃ¡gina e também na comunicação cliente servidor.
+    Jquery auxilia na dinâmica da página e também na comunicação cliente servidor.
   </li>
 </ul>
 
