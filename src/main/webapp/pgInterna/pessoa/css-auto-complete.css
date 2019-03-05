@@ -1,0 +1,123 @@
+
+.ac_results {
+    padding: 0px;
+    border: 1px solid #563d7c;
+    background-color: #f1edf2;
+    overflow: hidden;
+
+    /*width: 100%;*/
+
+}
+.ac_results ul {
+    list-style-position: outside;
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+.ac_results li {
+    margin: 5px;
+    padding: 2px 5px;
+    cursor: pointer;
+    /*display: block;*/
+    color: #000;
+    /*font-family:verdana;*/
+
+    /*width: 100%;*/
+    font-size: 16px;
+
+    /*line-height: 16px;*/
+    /*overflow: hidden;*/
+    border: 1px solid #563d7c;
+}
+
+.ac_results li:hover {
+    background-color: #563d7c;
+    border: 1px solid #563d7c;
+    color: #ffffff;
+}
+
+.ac_loading {
+    background: white url('images/indicator.gif') right center no-repeat;
+}
+.ac_odd {
+    /*background-color: #563d7c;*/
+    color: #563d7c;
+}
+.ac_over {
+    /*background-color: #563d7c;*/
+    color: #563d7c;
+}
+.input_text {
+    /*    background:white url(images/search.png) no-repeat 3px 2px;*/
+    background: url(images/search.png) no-repeat 8px 5px;
+}
+/*.input_text {
+    font-family:Arial, Helvetica, sans-serif;
+    font-size:12px;
+    border:1px solid #84a10b;
+    padding:2px;
+    width:190px;
+    color:#000;
+    background:white url(images/search.png) no-repeat 3px 2px;
+    padding-left:17px;
+}*/
+
+/*Antigo css*/
+/*.ac_results {
+    padding: 0px;
+    border: 1px solid #84a10b;
+    background-color: #563d7c;
+    overflow: hidden;
+}
+.ac_results ul {
+    width: 100%;
+    list-style-position: outside;
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+.ac_results li {
+    margin: 0px;
+    padding: 2px 5px;
+    cursor: default;
+    display: block;
+    color: #fff;
+    font-family:verdana;
+    
+    if width will be 100% horizontal scrollbar will apear
+    when scroll mode will be used
+    
+    width: 100%;
+    font-size: 12px;
+    
+    it is very important, if line-height not setted or setted
+    in relative units scroll will be broken in firefox
+    
+    line-height: 16px;
+    overflow: hidden;
+}
+.ac_loading {
+    background: white url('images/indicator.gif') right center no-repeat;
+}
+.ac_odd {
+    background-color: #563d7c;
+    color: #ffffff;
+}
+.ac_over {
+    background-color: #563d7c;
+    color: #ffffff;
+}
+.input_text {
+    background:white url(images/search.png) no-repeat 3px 2px;
+    background: url(images/search.png) no-repeat 8px 5px;
+}*/
+/*.input_text {
+    font-family:Arial, Helvetica, sans-serif;
+    font-size:12px;
+    border:1px solid #84a10b;
+    padding:2px;
+    width:190px;
+    color:#000;
+    background:white url(images/search.png) no-repeat 3px 2px;
+    padding-left:17px;
+}*/
