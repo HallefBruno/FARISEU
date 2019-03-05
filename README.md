@@ -131,7 +131,7 @@
 </p>
 
 #### Tela principal
-![alt text](https://github.com/HallefBruno/Fariseu/blob/master/src/main/webapp/images/tela_login.PNG)
+![alt text](https://github.com/HallefBruno/Fariseu/blob/master/src/main/webapp/images/tela_principal.PNG)
 <p align="center">
   <b>Figura 2 - Tela Principal</b>
 </p>
