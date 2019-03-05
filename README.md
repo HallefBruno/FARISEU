@@ -39,7 +39,7 @@
         <a href="https://github.com/HallefBruno/Fariseu/blob/master/README.md#tela-principal">Figura 2 - Tela principal</a>
       </li>
       <li>
-        <a href="">Figura 3 - Tela de cad pessoa</a>
+        <a href="">Figura 3 - Tela de cadastro</a>
       </li>
     </ul>
   </li>
