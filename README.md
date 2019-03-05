@@ -73,8 +73,10 @@
 
 <br>
 <hr>
-
-![alt text](https://github.com/HallefBruno/Fariseu/blob/master/src/main/webapp/images/download.gif)
+# Telas do sistema
+<br>
+### Tela de login.
+![alt text](https://github.com/HallefBruno/Fariseu/blob/master/src/main/webapp/images/tela_login.PNG)
 
 
 ### Link para donwload das tecnologias de back-and e front-and
