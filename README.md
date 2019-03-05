@@ -36,7 +36,7 @@
         <a href="https://github.com/HallefBruno/Fariseu/blob/master/README.md#tela-de-login">Figura 1 - Tela login</a>
       </li>
       <li>
-        <a href="https://github.com/HallefBruno/Fariseu/blob/master/src/main/webapp/images/tela_principal.PNG">Figura 2 - Tela principal</a>
+        <a href="https://github.com/HallefBruno/Fariseu/blob/master/README.md#tela-principal">Figura 2 - Tela principal</a>
       </li>
     </ul>
   </li>
